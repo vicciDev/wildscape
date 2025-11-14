@@ -100,9 +100,3 @@ You can upload the `www` folder to any static hosting:
 * This ZIP is for **running** the app not editing or developing it.
 * For full source code, request the development repository.
 * Some Features are still not fully implimented
-
-## **Screenshots (Optional)**
-
-```
-./.screenshots/welcomeToWilscape.png
-```
